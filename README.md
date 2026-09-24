@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi there 👋 
+# Hi there 👋
 
 <a href="https://github.com/fazlerabbi-data">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=AI+%26+Data+Science+Student;Aspiring+Data+Scientist;Currently+Learning+SQL;Python+%7C+Git+%7C+Arduino;Turning+data+into+insight" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=AI+%26+Data+Science+Student;Aspiring+AI+Engineer;Currently+Learning+SQL+%26+Python;Building+towards+Machine+Learning+%26+Deep+Learning" alt="Typing animation" />
 </a>
 
 
@@ -18,25 +18,24 @@
 
 
 
-![Goal](https://img.shields.io/badge/GOAL-DATA%20SCIENTIST-8957e5?style=for-the-badge&labelColor=0d1117)
+![Goal](https://img.shields.io/badge/GOAL-AI%20ENGINEER-8957e5?style=for-the-badge&labelColor=0d1117)
 
 
 
-<br/>
-
-
+</div>
 
 ---
 
 ## About Me
 
-> I'm Fazle Rabbi, a student of Artificial Intelligence and Data Science, working toward a career as a data scientist. I am currently building my foundation in SQL and Python, solving problems on Codeforces, exploring datasets on Kaggle, and building hands-on projects with Arduino.
+> I'm Fazle Rabbi, a student of Artificial Intelligence and Data Science, working toward a career as an AI engineer. I am currently building my foundation in SQL and Python, solving problems on Codeforces, exploring datasets on Kaggle, and building hands-on projects with Arduino.
 
 | | |
 |:--|:--|
 | **Studying** | Artificial Intelligence & Data Science |
+| **Career Goal** | AI Engineer |
 | **Currently Learning** | SQL |
-| **Interests** | Data analysis, problem solving, electronics |
+| **Interests** | Machine learning, problem solving, electronics |
 | **Fun Fact** | I think I'm unpredictable |
 
 ---
@@ -62,13 +61,27 @@
 <img src="https://img.shields.io/badge/-Arduino-161b22?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino" />
 </p>
 
+<p align="center">
+<b>Learning Next: ML & AI</b><br/><br/>
+<img src="https://img.shields.io/badge/-scikit--learn-161b22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/-PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/-TensorFlow-161b22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/-Jupyter-161b22?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+</p>
+
 ---
 
-## Learning Roadmap
+## AI Engineer Roadmap
 
 ```mermaid
-flowchart LR
-    A(["Python"]):::now --> B(["SQL"]):::now --> C(["Pandas & NumPy"]):::next --> D(["Data Visualization"]):::next --> E(["Machine Learning"]):::next --> F(["Data Scientist"]):::goal
+flowchart TD
+    A(["Python & SQL"]):::now --> B(["Math for AI"]):::next
+    B --> C(["Pandas, NumPy & Visualization"]):::next
+    C --> D(["Machine Learning"]):::next
+    D --> E(["Deep Learning"]):::next
+    E --> F(["NLP, Computer Vision & LLMs"]):::next
+    F --> G(["MLOps & Deployment"]):::next
+    G --> H(["AI Engineer"]):::goal
 
     classDef now fill:#1f6feb,stroke:#58a6ff,color:#ffffff,stroke-width:2px
     classDef next fill:#21262d,stroke:#30363d,color:#c9d1d9,stroke-width:2px
@@ -76,6 +89,18 @@ flowchart LR
 ```
 
 <sub>🔵 In progress &nbsp;·&nbsp; ⚫ Up next &nbsp;·&nbsp; 🟣 Goal</sub>
+
+### Roadmap Details
+
+| Phase | Focus | Key Topics |
+|:------|:------|:-----------|
+| **1. Foundations** | Python & SQL | Data structures, functions, queries, joins |
+| **2. Math** | Math for AI | Linear algebra, probability, statistics, calculus |
+| **3. Data** | Analysis & Visualization | Pandas, NumPy, Matplotlib, data cleaning |
+| **4. Machine Learning** | Classical ML | Regression, classification, clustering, model evaluation (scikit-learn) |
+| **5. Deep Learning** | Neural Networks | PyTorch or TensorFlow, CNNs, RNNs, Transformers |
+| **6. Specialization** | Applied AI | NLP, Computer Vision, LLMs and RAG |
+| **7. Deployment** | MLOps | Git workflows, Docker, REST APIs (FastAPI), cloud basics |
 
 ---
 
@@ -86,7 +111,38 @@ flowchart LR
 | **Databases** | SQL queries, joins, and data retrieval |
 | **Programming** | Python for data analysis and problem solving |
 | **Data Analysis** | Exploring datasets with Pandas and NumPy |
+| **AI Foundations** | Building math and machine learning fundamentals |
 | **Electronics** | Hands-on Arduino projects |
 
 ---
 
+## Planned Projects
+
+- [ ] Data analysis project on a Kaggle dataset
+- [ ] House price prediction with scikit-learn
+- [ ] Image classifier with a neural network
+- [ ] Chatbot using an LLM API
+- [ ] Deploy a trained model as a web API
+
+---
+
+## Connect
+
+> [!NOTE]
+> Open to collaboration, questions, and conversations about AI and data.
+
+<p align="center">
+<a href="mailto:fazlerabbi4969@gmail.com"><img src="https://img.shields.io/badge/-Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://github.com/fazlerabbi-data"><img src="https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://kaggle.com/fazlerabbi05446"><img src="https://img.shields.io/badge/-Kaggle-161b22?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" /></a>
+<a href="https://codeforces.com/profile/fazlrabbi"><img src="https://img.shields.io/badge/-Codeforces-161b22?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" /></a>
+<a href="https://www.youtube.com/c/@fazlerabbi-data"><img src="https://img.shields.io/badge/-YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+<a href="https://fb.com/fazlemahmud07"><img src="https://img.shields.io/badge/-Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
+<a href="https://instagram.com/fazle_mah_mud"><img src="https://img.shields.io/badge/-Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+</p>
+
+---
+
+<div align="center">
+<sub>Always learning. Always building.</sub>
+</div>
