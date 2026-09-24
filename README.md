@@ -1,8 +1,10 @@
 <div align="center">
 
-# Fazle Rabbi
+# Hi there 👋 
 
-### AI & Data Science Student &nbsp;|&nbsp; Aspiring Data Scientist
+<a href="https://github.com/fazlerabbi-data">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=AI+%26+Data+Science+Student;Aspiring+Data+Scientist;Currently+Learning+SQL;Python+%7C+Git+%7C+Arduino;Turning+data+into+insight" alt="Typing animation" />
+</a>
 
 
 
@@ -22,39 +24,13 @@
 
 <br/>
 
-[
 
-![Gmail](https://img.shields.io/badge/-Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335)
-
-](mailto:fazlerabbi4969@gmail.com)
-[
-
-![GitHub](https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/fazlerabbi-data)
-[
-
-![Kaggle](https://img.shields.io/badge/-Kaggle-161b22?style=for-the-badge&logo=kaggle&logoColor=20BEFF)
-
-](https://kaggle.com/fazlerabbi05446)
-[
-
-![Codeforces](https://img.shields.io/badge/-Codeforces-161b22?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)
-
-](https://codeforces.com/profile/fazlrabbi)
-[
-
-![YouTube](https://img.shields.io/badge/-YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=FF0000)
-
-](https://www.youtube.com/c/@fazlerabbi-data)
-
-</div>
 
 ---
 
 ## About Me
 
-> Student of Artificial Intelligence and Data Science, working toward a career as a data scientist. I am currently building my foundation in SQL and Python, solving problems on Codeforces, exploring datasets on Kaggle, and building hands-on projects with Arduino.
+> I'm Fazle Rabbi, a student of Artificial Intelligence and Data Science, working toward a career as a data scientist. I am currently building my foundation in SQL and Python, solving problems on Codeforces, exploring datasets on Kaggle, and building hands-on projects with Arduino.
 
 | | |
 |:--|:--|
@@ -114,23 +90,3 @@ flowchart LR
 
 ---
 
-## Connect
-
-> [!NOTE]
-> Open to collaboration, questions, and conversations about data and technology.
-
-<p align="center">
-<a href="mailto:fazlerabbi4969@gmail.com"><img src="https://img.shields.io/badge/-Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-<a href="https://github.com/fazlerabbi-data"><img src="https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://kaggle.com/fazlerabbi05446"><img src="https://img.shields.io/badge/-Kaggle-161b22?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" /></a>
-<a href="https://codeforces.com/profile/fazlrabbi"><img src="https://img.shields.io/badge/-Codeforces-161b22?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" /></a>
-<a href="https://www.youtube.com/c/@fazlerabbi-data"><img src="https://img.shields.io/badge/-YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
-<a href="https://fb.com/fazlemahmud07"><img src="https://img.shields.io/badge/-Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
-<a href="https://instagram.com/fazle_mah_mud"><img src="https://img.shields.io/badge/-Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-</p>
-
----
-
-<div align="center">
-<sub>Always learning. Always building.</sub>
-</div>
